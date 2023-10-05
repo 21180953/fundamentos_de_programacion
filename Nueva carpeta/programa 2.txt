@@ -1,0 +1,17 @@
+using System;
+
+namespace programa2 
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //algoritmo 2
+            int a, b, suma;
+            a = 90;
+            b = 8989;
+            suma = a + b;
+            Console.WriteLine(suma); 
+        }
+    }
+}

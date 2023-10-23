@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\bin\Debug\net6.0\programacuatrou3.exe
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\bin\Debug\net6.0\programacuatrou3.deps.json
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\bin\Debug\net6.0\programacuatrou3.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\bin\Debug\net6.0\programacuatrou3.dll
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\bin\Debug\net6.0\programacuatrou3.pdb
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\obj\Debug\net6.0\programacuatrou3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\obj\Debug\net6.0\programacuatrou3.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\obj\Debug\net6.0\programacuatrou3.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\obj\Debug\net6.0\programacuatrou3.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\obj\Debug\net6.0\programacuatrou3.dll
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\obj\Debug\net6.0\refint\programacuatrou3.dll
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\obj\Debug\net6.0\programacuatrou3.pdb
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\obj\Debug\net6.0\programacuatrou3.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programacuatrou3\programacuatrou3\obj\Debug\net6.0\ref\programacuatrou3.dll

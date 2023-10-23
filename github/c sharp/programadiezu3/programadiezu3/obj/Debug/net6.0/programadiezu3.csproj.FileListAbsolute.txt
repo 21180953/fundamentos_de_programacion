@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\bin\Debug\net6.0\programadiezu3.exe
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\bin\Debug\net6.0\programadiezu3.deps.json
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\bin\Debug\net6.0\programadiezu3.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\bin\Debug\net6.0\programadiezu3.dll
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\bin\Debug\net6.0\programadiezu3.pdb
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\obj\Debug\net6.0\programadiezu3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\obj\Debug\net6.0\programadiezu3.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\obj\Debug\net6.0\programadiezu3.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\obj\Debug\net6.0\programadiezu3.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\obj\Debug\net6.0\programadiezu3.dll
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\obj\Debug\net6.0\refint\programadiezu3.dll
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\obj\Debug\net6.0\programadiezu3.pdb
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\obj\Debug\net6.0\programadiezu3.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programadiezu3\programadiezu3\obj\Debug\net6.0\ref\programadiezu3.dll

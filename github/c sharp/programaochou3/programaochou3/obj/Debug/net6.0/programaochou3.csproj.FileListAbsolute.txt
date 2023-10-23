@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\bin\Debug\net6.0\programaochou3.exe
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\bin\Debug\net6.0\programaochou3.deps.json
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\bin\Debug\net6.0\programaochou3.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\bin\Debug\net6.0\programaochou3.dll
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\bin\Debug\net6.0\programaochou3.pdb
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\obj\Debug\net6.0\programaochou3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\obj\Debug\net6.0\programaochou3.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\obj\Debug\net6.0\programaochou3.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\obj\Debug\net6.0\programaochou3.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\obj\Debug\net6.0\programaochou3.dll
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\obj\Debug\net6.0\refint\programaochou3.dll
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\obj\Debug\net6.0\programaochou3.pdb
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\obj\Debug\net6.0\programaochou3.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programaochou3\programaochou3\obj\Debug\net6.0\ref\programaochou3.dll

@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\bin\Debug\net6.0\programadieciseisU3for.exe
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\bin\Debug\net6.0\programadieciseisU3for.deps.json
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\bin\Debug\net6.0\programadieciseisU3for.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\bin\Debug\net6.0\programadieciseisU3for.dll
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\bin\Debug\net6.0\programadieciseisU3for.pdb
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\obj\Debug\net6.0\programadieciseisU3for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\obj\Debug\net6.0\programadieciseisU3for.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\obj\Debug\net6.0\programadieciseisU3for.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\obj\Debug\net6.0\programadieciseisU3for.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\obj\Debug\net6.0\programadieciseisU3for.dll
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\obj\Debug\net6.0\refint\programadieciseisU3for.dll
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\obj\Debug\net6.0\programadieciseisU3for.pdb
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\obj\Debug\net6.0\programadieciseisU3for.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programadieciseisU3for\programadieciseisU3for\obj\Debug\net6.0\ref\programadieciseisU3for.dll

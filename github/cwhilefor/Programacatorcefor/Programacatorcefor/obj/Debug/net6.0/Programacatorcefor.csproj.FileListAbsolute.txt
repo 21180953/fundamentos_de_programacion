@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\bin\Debug\net6.0\Programacatorcefor.exe
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\bin\Debug\net6.0\Programacatorcefor.deps.json
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\bin\Debug\net6.0\Programacatorcefor.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\bin\Debug\net6.0\Programacatorcefor.dll
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\bin\Debug\net6.0\Programacatorcefor.pdb
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\obj\Debug\net6.0\Programacatorcefor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\obj\Debug\net6.0\Programacatorcefor.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\obj\Debug\net6.0\Programacatorcefor.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\obj\Debug\net6.0\Programacatorcefor.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\obj\Debug\net6.0\Programacatorcefor.dll
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\obj\Debug\net6.0\refint\Programacatorcefor.dll
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\obj\Debug\net6.0\Programacatorcefor.pdb
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\obj\Debug\net6.0\Programacatorcefor.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\Programacatorcefor\Programacatorcefor\obj\Debug\net6.0\ref\Programacatorcefor.dll

@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\bin\Debug\net6.0\programadiecisieteu3.exe
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\bin\Debug\net6.0\programadiecisieteu3.deps.json
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\bin\Debug\net6.0\programadiecisieteu3.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\bin\Debug\net6.0\programadiecisieteu3.dll
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\bin\Debug\net6.0\programadiecisieteu3.pdb
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\obj\Debug\net6.0\programadiecisieteu3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\obj\Debug\net6.0\programadiecisieteu3.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\obj\Debug\net6.0\programadiecisieteu3.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\obj\Debug\net6.0\programadiecisieteu3.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\obj\Debug\net6.0\programadiecisieteu3.dll
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\obj\Debug\net6.0\refint\programadiecisieteu3.dll
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\obj\Debug\net6.0\programadiecisieteu3.pdb
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\obj\Debug\net6.0\programadiecisieteu3.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programadiecisieteu3\programadiecisieteu3\obj\Debug\net6.0\ref\programadiecisieteu3.dll

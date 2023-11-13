@@ -1,0 +1,14 @@
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\obj\Debug\net6.0\programa1u4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\obj\Debug\net6.0\programa1u4.AssemblyInfoInputs.cache
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\obj\Debug\net6.0\programa1u4.AssemblyInfo.cs
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\obj\Debug\net6.0\programa1u4.csproj.CoreCompileInputs.cache
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\bin\Debug\net6.0\programa1u4.exe
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\bin\Debug\net6.0\programa1u4.deps.json
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\bin\Debug\net6.0\programa1u4.runtimeconfig.json
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\bin\Debug\net6.0\programa1u4.dll
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\bin\Debug\net6.0\programa1u4.pdb
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\obj\Debug\net6.0\programa1u4.dll
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\obj\Debug\net6.0\refint\programa1u4.dll
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\obj\Debug\net6.0\programa1u4.pdb
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\obj\Debug\net6.0\programa1u4.genruntimeconfig.cache
+C:\Users\LaboratorioLTI2\source\repos\programa1u4\programa1u4\obj\Debug\net6.0\ref\programa1u4.dll

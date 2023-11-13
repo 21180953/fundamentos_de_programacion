@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\bin\Debug\net6.0\programaquinceu3.exe
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\bin\Debug\net6.0\programaquinceu3.deps.json
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\bin\Debug\net6.0\programaquinceu3.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\bin\Debug\net6.0\programaquinceu3.dll
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\bin\Debug\net6.0\programaquinceu3.pdb
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\obj\Debug\net6.0\programaquinceu3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\obj\Debug\net6.0\programaquinceu3.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\obj\Debug\net6.0\programaquinceu3.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\obj\Debug\net6.0\programaquinceu3.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\obj\Debug\net6.0\programaquinceu3.dll
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\obj\Debug\net6.0\refint\programaquinceu3.dll
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\obj\Debug\net6.0\programaquinceu3.pdb
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\obj\Debug\net6.0\programaquinceu3.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programaquinceu3\programaquinceu3\obj\Debug\net6.0\ref\programaquinceu3.dll

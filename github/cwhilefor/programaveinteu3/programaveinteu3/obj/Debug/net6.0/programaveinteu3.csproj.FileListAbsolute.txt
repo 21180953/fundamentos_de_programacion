@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\bin\Debug\net6.0\programaveinteu3.exe
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\bin\Debug\net6.0\programaveinteu3.deps.json
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\bin\Debug\net6.0\programaveinteu3.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\bin\Debug\net6.0\programaveinteu3.dll
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\bin\Debug\net6.0\programaveinteu3.pdb
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\obj\Debug\net6.0\programaveinteu3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\obj\Debug\net6.0\programaveinteu3.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\obj\Debug\net6.0\programaveinteu3.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\obj\Debug\net6.0\programaveinteu3.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\obj\Debug\net6.0\programaveinteu3.dll
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\obj\Debug\net6.0\refint\programaveinteu3.dll
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\obj\Debug\net6.0\programaveinteu3.pdb
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\obj\Debug\net6.0\programaveinteu3.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programaveinteu3\programaveinteu3\obj\Debug\net6.0\ref\programaveinteu3.dll

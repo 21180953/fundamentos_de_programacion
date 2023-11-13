@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\bin\Debug\net6.0\programadieciochou3.exe
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\bin\Debug\net6.0\programadieciochou3.deps.json
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\bin\Debug\net6.0\programadieciochou3.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\bin\Debug\net6.0\programadieciochou3.dll
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\bin\Debug\net6.0\programadieciochou3.pdb
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\obj\Debug\net6.0\programadieciochou3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\obj\Debug\net6.0\programadieciochou3.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\obj\Debug\net6.0\programadieciochou3.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\obj\Debug\net6.0\programadieciochou3.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\obj\Debug\net6.0\programadieciochou3.dll
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\obj\Debug\net6.0\refint\programadieciochou3.dll
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\obj\Debug\net6.0\programadieciochou3.pdb
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\obj\Debug\net6.0\programadieciochou3.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programadieciochou3\programadieciochou3\obj\Debug\net6.0\ref\programadieciochou3.dll

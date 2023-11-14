@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\bin\Debug\net6.0\programaDiezUcuatro.exe
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\bin\Debug\net6.0\programaDiezUcuatro.deps.json
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\bin\Debug\net6.0\programaDiezUcuatro.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\bin\Debug\net6.0\programaDiezUcuatro.dll
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\bin\Debug\net6.0\programaDiezUcuatro.pdb
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\obj\Debug\net6.0\programaDiezUcuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\obj\Debug\net6.0\programaDiezUcuatro.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\obj\Debug\net6.0\programaDiezUcuatro.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\obj\Debug\net6.0\programaDiezUcuatro.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\obj\Debug\net6.0\programaDiezUcuatro.dll
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\obj\Debug\net6.0\refint\programaDiezUcuatro.dll
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\obj\Debug\net6.0\programaDiezUcuatro.pdb
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\obj\Debug\net6.0\programaDiezUcuatro.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programaDiezUcuatro\programaDiezUcuatro\obj\Debug\net6.0\ref\programaDiezUcuatro.dll

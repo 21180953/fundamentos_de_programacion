@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\obj\Debug\net6.0\programanueveUcuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\obj\Debug\net6.0\programanueveUcuatro.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\obj\Debug\net6.0\programanueveUcuatro.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\obj\Debug\net6.0\programanueveUcuatro.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\bin\Debug\net6.0\programanueveUcuatro.exe
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\bin\Debug\net6.0\programanueveUcuatro.deps.json
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\bin\Debug\net6.0\programanueveUcuatro.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\bin\Debug\net6.0\programanueveUcuatro.dll
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\bin\Debug\net6.0\programanueveUcuatro.pdb
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\obj\Debug\net6.0\programanueveUcuatro.dll
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\obj\Debug\net6.0\refint\programanueveUcuatro.dll
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\obj\Debug\net6.0\programanueveUcuatro.pdb
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\obj\Debug\net6.0\programanueveUcuatro.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programanueveUcuatro\programanueveUcuatro\obj\Debug\net6.0\ref\programanueveUcuatro.dll

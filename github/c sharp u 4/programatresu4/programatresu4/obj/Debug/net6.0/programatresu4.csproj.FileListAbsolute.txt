@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\obj\Debug\net6.0\programatresu4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\obj\Debug\net6.0\programatresu4.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\obj\Debug\net6.0\programatresu4.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\obj\Debug\net6.0\programatresu4.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\bin\Debug\net6.0\programatresu4.exe
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\bin\Debug\net6.0\programatresu4.deps.json
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\bin\Debug\net6.0\programatresu4.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\bin\Debug\net6.0\programatresu4.dll
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\bin\Debug\net6.0\programatresu4.pdb
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\obj\Debug\net6.0\programatresu4.dll
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\obj\Debug\net6.0\refint\programatresu4.dll
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\obj\Debug\net6.0\programatresu4.pdb
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\obj\Debug\net6.0\programatresu4.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programatresu4\programatresu4\obj\Debug\net6.0\ref\programatresu4.dll

@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\bin\Debug\net6.0\programasieteUcuatro.exe
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\bin\Debug\net6.0\programasieteUcuatro.deps.json
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\bin\Debug\net6.0\programasieteUcuatro.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\bin\Debug\net6.0\programasieteUcuatro.dll
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\bin\Debug\net6.0\programasieteUcuatro.pdb
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\obj\Debug\net6.0\programasieteUcuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\obj\Debug\net6.0\programasieteUcuatro.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\obj\Debug\net6.0\programasieteUcuatro.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\obj\Debug\net6.0\programasieteUcuatro.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\obj\Debug\net6.0\programasieteUcuatro.dll
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\obj\Debug\net6.0\refint\programasieteUcuatro.dll
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\obj\Debug\net6.0\programasieteUcuatro.pdb
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\obj\Debug\net6.0\programasieteUcuatro.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programasieteUcuatro\programasieteUcuatro\obj\Debug\net6.0\ref\programasieteUcuatro.dll

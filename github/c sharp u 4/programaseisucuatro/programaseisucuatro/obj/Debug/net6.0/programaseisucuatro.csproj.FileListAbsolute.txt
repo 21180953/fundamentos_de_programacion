@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\obj\Debug\net6.0\programaseisucuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\obj\Debug\net6.0\programaseisucuatro.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\obj\Debug\net6.0\programaseisucuatro.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\obj\Debug\net6.0\programaseisucuatro.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\bin\Debug\net6.0\programaseisucuatro.exe
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\bin\Debug\net6.0\programaseisucuatro.deps.json
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\bin\Debug\net6.0\programaseisucuatro.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\bin\Debug\net6.0\programaseisucuatro.dll
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\bin\Debug\net6.0\programaseisucuatro.pdb
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\obj\Debug\net6.0\programaseisucuatro.dll
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\obj\Debug\net6.0\refint\programaseisucuatro.dll
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\obj\Debug\net6.0\programaseisucuatro.pdb
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\obj\Debug\net6.0\programaseisucuatro.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programaseisucuatro\programaseisucuatro\obj\Debug\net6.0\ref\programaseisucuatro.dll

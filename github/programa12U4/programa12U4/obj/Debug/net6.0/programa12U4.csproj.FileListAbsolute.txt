@@ -1,0 +1,14 @@
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\bin\Debug\net6.0\programa12U4.exe
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\bin\Debug\net6.0\programa12U4.deps.json
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\bin\Debug\net6.0\programa12U4.runtimeconfig.json
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\bin\Debug\net6.0\programa12U4.dll
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\bin\Debug\net6.0\programa12U4.pdb
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\obj\Debug\net6.0\programa12U4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\obj\Debug\net6.0\programa12U4.AssemblyInfoInputs.cache
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\obj\Debug\net6.0\programa12U4.AssemblyInfo.cs
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\obj\Debug\net6.0\programa12U4.csproj.CoreCompileInputs.cache
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\obj\Debug\net6.0\programa12U4.dll
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\obj\Debug\net6.0\refint\programa12U4.dll
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\obj\Debug\net6.0\programa12U4.pdb
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\obj\Debug\net6.0\programa12U4.genruntimeconfig.cache
+C:\Users\LaboratorioLTI2\source\repos\programa12U4\programa12U4\obj\Debug\net6.0\ref\programa12U4.dll

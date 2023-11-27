@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programa11\programa11\bin\Debug\net6.0\programa11.exe
+C:\Users\mrjig\Source\Repos\programa11\programa11\bin\Debug\net6.0\programa11.deps.json
+C:\Users\mrjig\Source\Repos\programa11\programa11\bin\Debug\net6.0\programa11.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programa11\programa11\bin\Debug\net6.0\programa11.dll
+C:\Users\mrjig\Source\Repos\programa11\programa11\bin\Debug\net6.0\programa11.pdb
+C:\Users\mrjig\Source\Repos\programa11\programa11\obj\Debug\net6.0\programa11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programa11\programa11\obj\Debug\net6.0\programa11.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programa11\programa11\obj\Debug\net6.0\programa11.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programa11\programa11\obj\Debug\net6.0\programa11.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programa11\programa11\obj\Debug\net6.0\programa11.dll
+C:\Users\mrjig\Source\Repos\programa11\programa11\obj\Debug\net6.0\refint\programa11.dll
+C:\Users\mrjig\Source\Repos\programa11\programa11\obj\Debug\net6.0\programa11.pdb
+C:\Users\mrjig\Source\Repos\programa11\programa11\obj\Debug\net6.0\programa11.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programa11\programa11\obj\Debug\net6.0\ref\programa11.dll

@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programa15\programa15\bin\Debug\net6.0\programa15.exe
+C:\Users\mrjig\Source\Repos\programa15\programa15\bin\Debug\net6.0\programa15.deps.json
+C:\Users\mrjig\Source\Repos\programa15\programa15\bin\Debug\net6.0\programa15.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programa15\programa15\bin\Debug\net6.0\programa15.dll
+C:\Users\mrjig\Source\Repos\programa15\programa15\bin\Debug\net6.0\programa15.pdb
+C:\Users\mrjig\Source\Repos\programa15\programa15\obj\Debug\net6.0\programa15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programa15\programa15\obj\Debug\net6.0\programa15.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programa15\programa15\obj\Debug\net6.0\programa15.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programa15\programa15\obj\Debug\net6.0\programa15.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programa15\programa15\obj\Debug\net6.0\programa15.dll
+C:\Users\mrjig\Source\Repos\programa15\programa15\obj\Debug\net6.0\refint\programa15.dll
+C:\Users\mrjig\Source\Repos\programa15\programa15\obj\Debug\net6.0\programa15.pdb
+C:\Users\mrjig\Source\Repos\programa15\programa15\obj\Debug\net6.0\programa15.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programa15\programa15\obj\Debug\net6.0\ref\programa15.dll

@@ -1,0 +1,14 @@
+C:\Users\mrjig\Source\Repos\programa17\programa17\bin\Debug\net6.0\programa17.exe
+C:\Users\mrjig\Source\Repos\programa17\programa17\bin\Debug\net6.0\programa17.deps.json
+C:\Users\mrjig\Source\Repos\programa17\programa17\bin\Debug\net6.0\programa17.runtimeconfig.json
+C:\Users\mrjig\Source\Repos\programa17\programa17\bin\Debug\net6.0\programa17.dll
+C:\Users\mrjig\Source\Repos\programa17\programa17\bin\Debug\net6.0\programa17.pdb
+C:\Users\mrjig\Source\Repos\programa17\programa17\obj\Debug\net6.0\programa17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjig\Source\Repos\programa17\programa17\obj\Debug\net6.0\programa17.AssemblyInfoInputs.cache
+C:\Users\mrjig\Source\Repos\programa17\programa17\obj\Debug\net6.0\programa17.AssemblyInfo.cs
+C:\Users\mrjig\Source\Repos\programa17\programa17\obj\Debug\net6.0\programa17.csproj.CoreCompileInputs.cache
+C:\Users\mrjig\Source\Repos\programa17\programa17\obj\Debug\net6.0\programa17.dll
+C:\Users\mrjig\Source\Repos\programa17\programa17\obj\Debug\net6.0\refint\programa17.dll
+C:\Users\mrjig\Source\Repos\programa17\programa17\obj\Debug\net6.0\programa17.pdb
+C:\Users\mrjig\Source\Repos\programa17\programa17\obj\Debug\net6.0\programa17.genruntimeconfig.cache
+C:\Users\mrjig\Source\Repos\programa17\programa17\obj\Debug\net6.0\ref\programa17.dll
